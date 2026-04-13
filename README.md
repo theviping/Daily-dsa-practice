@@ -58,7 +58,7 @@ Each folder contains solution files named after the problem, along with comments
 
 ## 🛠️ Languages Used
 
-- **Python** / **Java** / **C++** *(update as applicable)*
+- **Java**
 
 ---
 
